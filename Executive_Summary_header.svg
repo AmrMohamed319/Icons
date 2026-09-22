@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="64"
+     height="64"
+     viewBox="0 0 64 64">
+
+    <!-- Background -->
+
+    <circle
+        cx="32"
+        cy="32"
+        r="28"
+        fill="#0B5FA5"/>
+
+    <!-- Flask -->
+
+    <path
+        d="
+        M26 18
+        L26 27
+        L21 38
+        A11 11 0 0 0 43 38
+        L38 27
+        L38 18
+        "
+        fill="white"/>
+
+    <!-- Liquid -->
+
+    <path
+        d="
+        M23 36
+        Q32 30 41 36
+        L41 40
+        A9 9 0 0 1 23 40
+        Z"
+        fill="#0B5FA5"/>
+
+    <!-- Analytics Line -->
+
+    <polyline
+        points="23,25 28,23 33,27 40,21"
+        fill="none"
+        stroke="#0B5FA5"
+        stroke-width="2"
+        stroke-linecap="round"
+        stroke-linejoin="round"/>
+
+</svg>

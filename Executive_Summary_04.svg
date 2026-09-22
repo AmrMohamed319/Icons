@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="64"
+     height="64"
+     viewBox="0 0 64 64">
+
+    <!-- Background -->
+    <circle
+        cx="32"
+        cy="32"
+        r="28"
+        fill="#0B5FA5"/>
+
+    <!-- Laboratory Flask -->
+    <path
+        d="M26 18
+           L26 27
+           L21 38
+           A11 11 0 0 0 43 38
+           L38 27
+           L38 18
+           Z"
+        fill="white"/>
+
+    <!-- Liquid -->
+    <path
+        d="M23 36
+           Q32 31 41 36
+           L41 40
+           A9 9 0 0 1 23 40
+           Z"
+        fill="#0B5FA5"/>
+
+    <!-- Small Category Squares -->
+    <rect x="28" y="23" width="3" height="3" fill="#0B5FA5"/>
+    <rect x="33" y="23" width="3" height="3" fill="#0B5FA5"/>
+
+</svg>

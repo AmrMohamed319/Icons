@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="64"
+     height="64"
+     viewBox="0 0 64 64">
+
+    <!-- Background -->
+    <circle
+        cx="32"
+        cy="32"
+        r="28"
+        fill="#0B5FA5"/>
+
+    <!-- Oil Field / Well -->
+    <path
+        d="M20 42
+           L28 22
+           L36 42
+           Z"
+        fill="white"/>
+
+    <rect
+        x="30"
+        y="18"
+        width="4"
+        height="24"
+        fill="white"/>
+
+    <!-- Ground -->
+    <rect
+        x="18"
+        y="44"
+        width="28"
+        height="3"
+        rx="1.5"
+        fill="white"/>
+
+</svg>

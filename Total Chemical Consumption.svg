@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="64"
+    height="64"
+    viewBox="0 0 64 64">
+
+    <!-- Blue Circle -->
+    <circle
+        cx="32"
+        cy="32"
+        r="28"
+        fill="#0B5FA5"/>
+
+    <!-- Chemical Drum -->
+
+    <!-- Top -->
+    <ellipse
+        cx="32"
+        cy="18"
+        rx="10"
+        ry="3"
+        fill="white"/>
+
+    <!-- Body -->
+    <rect
+        x="22"
+        y="18"
+        width="20"
+        height="24"
+        rx="2"
+        fill="white"/>
+
+    <!-- Bottom -->
+    <ellipse
+        cx="32"
+        cy="42"
+        rx="10"
+        ry="3"
+        fill="white"/>
+
+    <!-- Drum Bands -->
+    <rect
+        x="22"
+        y="24"
+        width="20"
+        height="2"
+        fill="#0B5FA5"/>
+
+    <rect
+        x="22"
+        y="34"
+        width="20"
+        height="2"
+        fill="#0B5FA5"/>
+
+    <!-- Chemical Flask Symbol -->
+    <path
+        d="M31 23
+           L31 28
+           L28 33
+           A4 4 0 0 0 36 33
+           L33 28
+           L33 23
+           Z"
+        fill="#0B5FA5"/>
+
+</svg>

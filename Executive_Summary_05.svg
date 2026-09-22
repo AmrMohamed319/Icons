@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="64"
+     height="64"
+     viewBox="0 0 64 64">
+
+    <!-- Background -->
+    <circle
+        cx="32"
+        cy="32"
+        r="28"
+        fill="#0B5FA5"/>
+
+    <!-- Chemical Drum -->
+
+    <ellipse
+        cx="32"
+        cy="18"
+        rx="10"
+        ry="3"
+        fill="white"/>
+
+    <rect
+        x="22"
+        y="18"
+        width="20"
+        height="24"
+        rx="2"
+        fill="white"/>
+
+    <ellipse
+        cx="32"
+        cy="42"
+        rx="10"
+        ry="3"
+        fill="white"/>
+
+    <!-- Drum Bands -->
+
+    <rect
+        x="22"
+        y="25"
+        width="20"
+        height="2"
+        fill="#0B5FA5"/>
+
+    <rect
+        x="22"
+        y="34"
+        width="20"
+        height="2"
+        fill="#0B5FA5"/>
+
+    <!-- Drop -->
+
+    <path
+        d="M32 27
+           C30.5 29
+           29.5 30.5
+           29.5 32
+           A2.5 2.5 0 0 0 34.5 32
+           C34.5 30.5
+           33.5 29
+           32 27Z"
+        fill="#0B5FA5"/>
+
+</svg>
