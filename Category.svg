@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="64"
+    height="64"
+    viewBox="0 0 64 64">
+
+    <!-- White Outline -->
+    <g
+        fill="none"
+        stroke="white"
+        stroke-width="7"
+        stroke-linecap="round"
+        stroke-linejoin="round">
+
+        <path d="M27 10H37"/>
+        <path d="M29 10V25"/>
+        <path d="M35 10V25"/>
+        <path d="M29 25 L18 47 C17 50 19 53 23 53 H41 C45 53 47 50 46 47 L35 25"/>
+        <path d="M22 43 C26 41 30 45 34 43 C38 41 41 44 44 43"/>
+        <path d="M24 47H40"/>
+
+    </g>
+
+    <!-- Main Icon -->
+    <g
+        fill="none"
+        stroke="#0B2A5B"
+        stroke-width="3"
+        stroke-linecap="round"
+        stroke-linejoin="round">
+
+        <path d="M27 10H37"/>
+        <path d="M29 10V25"/>
+        <path d="M35 10V25"/>
+        <path d="M29 25 L18 47 C17 50 19 53 23 53 H41 C45 53 47 50 46 47 L35 25"/>
+        <path d="M22 43 C26 41 30 45 34 43 C38 41 41 44 44 43"/>
+        <path d="M24 47H40"/>
+
+    </g>
+
+</svg>

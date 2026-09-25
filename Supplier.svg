@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="64"
+    height="64"
+    viewBox="0 0 64 64">
+
+    <!-- White Outline -->
+    <g
+        fill="none"
+        stroke="white"
+        stroke-width="7"
+        stroke-linecap="round"
+        stroke-linejoin="round">
+
+        <circle cx="32" cy="17" r="6"/>
+        <path d="M22 43 C22 34 26 29 32 29 C38 29 42 34 42 43"/>
+        <circle cx="16" cy="22" r="5"/>
+        <path d="M8 45 C8 38 11 33 16 33 C19 33 22 35 23 38"/>
+        <circle cx="48" cy="22" r="5"/>
+        <path d="M41 38 C42 35 45 33 48 33 C53 33 56 38 56 45"/>
+        <path d="M12 47H52"/>
+
+    </g>
+
+    <!-- Main Icon -->
+    <g
+        fill="none"
+        stroke="#0B2A5B"
+        stroke-width="3"
+        stroke-linecap="round"
+        stroke-linejoin="round">
+
+        <circle cx="32" cy="17" r="6"/>
+        <path d="M22 43 C22 34 26 29 32 29 C38 29 42 34 42 43"/>
+        <circle cx="16" cy="22" r="5"/>
+        <path d="M8 45 C8 38 11 33 16 33 C19 33 22 35 23 38"/>
+        <circle cx="48" cy="22" r="5"/>
+        <path d="M41 38 C42 35 45 33 48 33 C53 33 56 38 56 45"/>
+        <path d="M12 47H52"/>
+
+    </g>
+
+</svg>

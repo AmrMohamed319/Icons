@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="64"
+    height="64"
+    viewBox="0 0 64 64">
+
+    <!-- White Outline -->
+    <g
+        fill="none"
+        stroke="white"
+        stroke-width="7"
+        stroke-linecap="round"
+        stroke-linejoin="round">
+
+        <path d="M32 9L19 53"/>
+        <path d="M32 9L45 53"/>
+        <path d="M27 9H37"/>
+        <path d="M32 9V4"/>
+        <path d="M26 18H38"/>
+        <path d="M23 29H41"/>
+        <path d="M20 41H44"/>
+        <path d="M26 18L38 29"/>
+        <path d="M38 18L26 29"/>
+        <path d="M23 29L41 41"/>
+        <path d="M41 29L23 41"/>
+        <path d="M15 53H49"/>
+        <path d="M32 41V58"/>
+        <path d="M27 58H37"/>
+
+    </g>
+
+    <!-- Main Icon -->
+    <g
+        fill="none"
+        stroke="#0B2A5B"
+        stroke-width="3"
+        stroke-linecap="round"
+        stroke-linejoin="round">
+
+        <path d="M32 9L19 53"/>
+        <path d="M32 9L45 53"/>
+        <path d="M27 9H37"/>
+        <path d="M32 9V4"/>
+        <path d="M26 18H38"/>
+        <path d="M23 29H41"/>
+        <path d="M20 41H44"/>
+        <path d="M26 18L38 29"/>
+        <path d="M38 18L26 29"/>
+        <path d="M23 29L41 41"/>
+        <path d="M41 29L23 41"/>
+        <path d="M15 53H49"/>
+        <path d="M32 41V58"/>
+        <path d="M27 58H37"/>
+
+    </g>
+
+</svg>
